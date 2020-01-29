@@ -9,7 +9,7 @@ import (
 
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/service/s3"
-	st "github.com/golang-migrate/migrate/v4/source/testing"
+	st "github.com/bishtawi/migrate/v4/source/testing"
 )
 
 func Test(t *testing.T) {
